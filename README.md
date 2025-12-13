@@ -1,6 +1,7 @@
 # The Five-Day Transformation: From NLP Developer to AI Agent Expert
 
-https://youtu.be/x28HXqoHzO0?si=Ko9UKWaAoAxro8YO
+[![IMAGE ALT TEXT HERE](<img width="1024" height="1024" alt="Logo final" src="https://github.com/user-attachments/assets/709968ae-c499-4ceb-9139-3f946d3d9cc5" />
+)](https://youtu.be/x28HXqoHzO0?si=Ko9UKWaAoAxro8YO)
  
 I heard that AI agents can work as co-workers, doing the same type of work as humans in companies. One common myth is that AI agents could result in job displacement. The reality is more nuanced: it lies in developing reliable AI agents that do not hallucinate and can adapt to different social settings while building trust with other co-workers. These are the core objectives taught during this 5-day AI agents intensive course. I was very excited to learn about AI agents and their applications, especially since one could explore many ideas such as journalism, research, prediction, or analysis and actually get a platform to bring them to reality. Deep down, I wanted to build an AI agent to automate some personal tasks. This course came at exactly the right moment.
 
