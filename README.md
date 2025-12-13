@@ -1,5 +1,4 @@
 # The Five-Day Transformation: From NLP Developer to AI Agent Expert (https://dev.to/hardhikman/the-five-day-transformation-from-nlp-developer-to-ai-agent-expert-57e0)
-
  
 I heard that AI agents can work as co-workers, doing the same type of work as humans in companies. One common myth is that AI agents could result in job displacement. The reality is more nuanced: it lies in developing reliable AI agents that do not hallucinate and can adapt to different social settings while building trust with other co-workers. These are the core objectives taught during this 5-day AI agents intensive course. I was very excited to learn about AI agents and their applications, especially since one could explore many ideas such as journalism, research, prediction, or analysis and actually get a platform to bring them to reality. Deep down, I wanted to build an AI agent to automate some personal tasks. This course came at exactly the right moment.
 
@@ -16,3 +15,5 @@ On the fourth day, we tackled observability and evaluation, which are essential 
 By the fifth day, everything came together. We had production ready knowledge paired with hands on experience through the capstone project: a public policy agent. I employed a multi-agent architecture with specialized roles: analysis, critique, lobbyist, and final synthesis agents. Tools like Tavily and Google search provided real-time context, while logging traces ensured full observability throughout the system. The result wasn't just a working project, it demonstrated the principles of building reliable, production grade AI systems.
 
 This course fundamentally changed how I think about development. It transformed me from someone building NLP related projects to an AI agent expert. More importantly, it shifted my perspective from just building a project to building a system. That distinction matters deeply: it's the difference between feature focused work and architecture focused thinking.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://youtu.be/x28HXqoHzO0?si=Ko9UKWaAoAxro8YO/0.jpg)](https://youtu.be/x28HXqoHzO0?si=Ko9UKWaAoAxro8YO)
