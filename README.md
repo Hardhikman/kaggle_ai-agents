@@ -1,2 +1,19 @@
-# credits:
- google
+# The Five-Day Transformation: From NLP Developer to AI Agent Expert
+
+https://youtu.be/x28HXqoHzO0?si=Ko9UKWaAoAxro8YO
+ 
+I heard that AI agents can work as co-workers, doing the same type of work as humans in companies. One common myth is that AI agents could result in job displacement. The reality is more nuanced: it lies in developing reliable AI agents that do not hallucinate and can adapt to different social settings while building trust with other co-workers. These are the core objectives taught during this 5-day AI agents intensive course. I was very excited to learn about AI agents and their applications, especially since one could explore many ideas such as journalism, research, prediction, or analysis and actually get a platform to bring them to reality. Deep down, I wanted to build an AI agent to automate some personal tasks. This course came at exactly the right moment.
+
+On the first day, we started with building simple agents and multi-agent architectures. I learned about different Google ADK modules and their functions: agent (model, instruction, output key), runner, parallel agent, sequential agent, and loop agent. Each pattern revealed a different way to structure agent behavior, from linear execution to parallel processing.
+
+What made this course truly transformative was listening to various experts in the field of AI. Their thoughts and analysis across different topics provided real-world perspective that lectures alone cannot offer. The summarization sessions and quizzes at the end of each live session made remembering the concepts feel natural and engaging rather than forced.
+
+On the second day, we explored tools and their usage. Tools come in different forms: functional tools, in-built tools like Google search and code execution, agent tools, and importantly, MCP tool usage. I realized that these are not just extensions of simple LLM based agents, they are what transform an LLM into a specialist. These tools help the LLM take the right context and make informed decisions, moving beyond what training data alone can provide.
+
+The third day focused on knowledge management: how to store knowledge, retrieve it, and use it effectively. This is what's called context engineering. Two important concepts emerged: session based memory and persistent memory. Session based memory can be wiped out after the session ends, but for production systems, database services like SQLite or vector databases are needed for memory persistence. Beyond storage, I learned about context rot, the degradation that happens when context windows become polluted. Context compaction and context chunking became the ultimate concepts for preventing agents from becoming rogue and unreliable over time.
+
+On the fourth day, we tackled observability and evaluation, which are essential for production systems. We learned to log every trace: tool calling (input, output) and agent calling (input, output). But logging alone is not enough. We also evaluated outputs at each stage, checking whether they were truthful, reliable, free from hallucination, and efficient. This systematic approach transformed debugging from guesswork into measurable validation. Finally, we explored the Agent to Agent protocol for building remote agents and connecting multiple agents into a cohesive system.
+
+By the fifth day, everything came together. We had production ready knowledge paired with hands on experience through the capstone project: a public policy agent. I employed a multi-agent architecture with specialized roles: analysis, critique, lobbyist, and final synthesis agents. Tools like Tavily and Google search provided real-time context, while logging traces ensured full observability throughout the system. The result wasn't just a working project, it demonstrated the principles of building reliable, production grade AI systems.
+
+This course fundamentally changed how I think about development. It transformed me from someone building NLP related projects to an AI agent expert. More importantly, it shifted my perspective from just building a project to building a system. That distinction matters deeply: it's the difference between feature focused work and architecture focused thinking.
