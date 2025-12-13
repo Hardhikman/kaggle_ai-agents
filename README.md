@@ -16,4 +16,4 @@ By the fifth day, everything came together. We had production ready knowledge pa
 
 This course fundamentally changed how I think about development. It transformed me from someone building NLP related projects to an AI agent expert. More importantly, it shifted my perspective from just building a project to building a system. That distinction matters deeply: it's the difference between feature focused work and architecture focused thinking.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://youtu.be/x28HXqoHzO0?si=Ko9UKWaAoAxro8YO/0.jpg)](https://youtu.be/x28HXqoHzO0?si=Ko9UKWaAoAxro8YO)
+[![podcast](https://img.youtube.com/vi/https://youtu.be/x28HXqoHzO0?si=Ko9UKWaAoAxro8YO/0.jpg)](https://youtu.be/x28HXqoHzO0?si=Ko9UKWaAoAxro8YO)
